@@ -1,0 +1,28 @@
+ 
+
+
+
+ body{
+	 
+	 background-color:#F2C7FF;
+ }
+ 
+ 
+
+.form-control{
+	
+	background-color:#FACFCF;
+	  border-radius: 25px;
+
+}
+
+.btn {
+	width:166px;
+	background-color:#B6638A;
+}
+ .btn-primary {
+	 margin-top:25px;
+  background-color:#ED00FD;
+  border-radius: 20px;
+	  
+ }

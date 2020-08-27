@@ -1,0 +1,54 @@
+body {
+  background: #e3e3e3;
+  position:relative;
+ }
+.container{    
+/*border:1px solid green;
+   */ 
+   
+}
+h1{
+	padding:50px 0px;
+}
+
+ .cont{
+  position:absolute;
+  top:0px;
+ width: 100%;
+ }
+  .cont1{
+  margin:auto;
+   }
+  img{
+	  margin-top:35px;
+  opacity:0.1;
+      width: 100%;
+  }
+ 
+.mt{
+    
+    /*margin-top:61px;
+    margin-bottom:40px;*/
+}
+
+.form-control{
+    
+    background-color:#56B9C9;
+	margin: 5px 0px;
+}
+
+.btn {
+    width:166px;
+    background-color:#B6638A;
+}
+.he{
+/*    height:100px;*/
+    
+    
+}
+
+
+
+
+
+	 
